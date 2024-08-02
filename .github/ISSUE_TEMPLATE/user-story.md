@@ -14,3 +14,8 @@ Acceptance criteria:
 There should be a radio button for each option
 One button should be checked by default
 The options should be next to the submit button
+
+Tasks:
+[ ] <Task 1>
+[ ] <Task 2 >
+[ ] <Task 3 >
